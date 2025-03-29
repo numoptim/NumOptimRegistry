@@ -1,0 +1,6 @@
+name = "NumOptimRegistry"
+uuid = "8e515742-f0e9-4756-bc52-49ac822c0d0a"
+repo = "git@github.com:numoptim/NumOptimRegistry.git"
+description = "Local registry for numoptim organization packages."
+
+[packages]
