@@ -1,0 +1,3 @@
+name = "OptimizationProblems"
+uuid = "cedb96af-b716-49a9-8995-d784cce4c15f"
+repo = "https://github.com/numoptim/OptimizationProblems.jl.git"
