@@ -5,4 +5,5 @@ description = "Local registry for numoptim organization packages."
 
 [packages]
 1e8ba084-2b82-410e-94da-52931dd80093 = { name = "OptimizationModels", path = "O/OptimizationModels" }
+5d16ec4c-3308-46eb-bccb-6dfd9ce745e1 = { name = "OptimizationMethods", path = "O/OptimizationMethods" }
 cedb96af-b716-49a9-8995-d784cce4c15f = { name = "OptimizationProblems", path = "O/OptimizationProblems" }

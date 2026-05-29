@@ -1,0 +1,3 @@
+name = "OptimizationMethods"
+uuid = "5d16ec4c-3308-46eb-bccb-6dfd9ce745e1"
+repo = "https://github.com/numoptim/OptimizationMethods.jl"
